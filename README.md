@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @fadhilradh
 - 👀 I’m interested in Front-End Web Development and Building Apps with Flutter
-- 🌱 I’m currently continue to master Vue and Flutter
+- 🌱 I’m currently on journey to master Vue, Nuxt and Flutter
 - 📫 How to reach me : fadhilradhian@gmail.com or DM me on Linkedin : https://www.linkedin.com/in/fadhil-radhian-463024205/
 
 <!---
