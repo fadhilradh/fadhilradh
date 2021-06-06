@@ -1,4 +1,4 @@
-Hi, I’m @fadhilradh. I’m currently on journey to master React and Vue. How to reach me : fadhilradhian@gmail.com or DM me on Linkedin : https://www.linkedin.com/in/fadhil-radhian-463024205/
+Hi, I’m @fadhilradh, IT Enthusiast. Currently I am focusing in Web Front End. How to reach me : fadhilradhian@gmail.com or DM me on Linkedin : https://www.linkedin.com/in/fadhil-radhian-463024205/
 
 <!---
 fadhilradh/fadhilradh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
