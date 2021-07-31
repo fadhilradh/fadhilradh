@@ -1,6 +1,20 @@
-Hi, I’m @fadhilradh, IT Enthusiast. Currently I am focusing in Frontend Web Dev. How to reach me : fadhilradhian@gmail.com or DM me on Linkedin : https://www.linkedin.com/in/fadhil-radhian-463024205/
+# Hi there, I'm Fadhil 👋🏻
+I'm a Front End Developer working at <strong>Azura Labs</strong> for almost a year.
 
-<!---
-fadhilradh/fadhilradh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Current Projects <br/>
+> ⭐️ [WorldNews](https://github.com/fadhilradh/FadNews-React-Next) - I'm currently building a news site aggregator that contains from different sources, also with the ability to search any news keyword from around the world
+
+## My Values
+🧠 Thoughtful & Inclusive Development <br/>
+🖤 Authentic Expression <br/>
+💡 Mindset of Learning & Curiosity <br/>
+🙌 Teamwork & Communication
+
+## Hobbies
+:soccer: Futsal and Soccer Enthusiast <br/>
+:books: Non-Fiction reader
+
+## Connect with Me
+- [Linkedin](https://www.linkedin.com/in/fadhil-radhian-463024205/) <br/>
+- [Twitter](https://twitter.com/fadhil_radhian) <br/>
+- [Instagram](https://www.instagram.com/fadhilrad) <br/>
