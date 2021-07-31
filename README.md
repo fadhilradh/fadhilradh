@@ -1,5 +1,5 @@
 # Hi there, I'm Fadhil 👋🏻
-I'm a Front End Developer working at <strong>Azura Labs</strong> for almost a year.
+I'm a Front End Developer working at <strong>Azura Labs</strong> mostly with React, Next, Vue and CSS tools.
 
 ## Current Projects <br/>
 > ⭐️ [WorldNews](https://github.com/fadhilradh/FadNews-React-Next) - I'm currently building a news site aggregator that contains from different sources, also with the ability to search any news keyword from around the world
