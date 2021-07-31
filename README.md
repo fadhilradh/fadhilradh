@@ -11,7 +11,7 @@ I'm a Front End Developer working at <strong>Azura Labs</strong> mostly with Rea
 🙌 Teamwork & Communication
 
 ## Hobbies
-:soccer: Futsal and Soccer Enthusiast <br/>
+:soccer: Futsal Player and Soccer Enthusiast <br/>
 :books: Non-Fiction reader
 
 ## Connect with Me
