@@ -11,8 +11,8 @@ I'm a Front End Developer working at <strong>Azura Labs</strong> mostly with Rea
 🙌 Teamwork & Communication
 
 ## Hobbies
-:soccer: Futsal Player and Soccer Enthusiast <br/>
-:books: Non-Fiction reader
+:soccer: Futsal Player and Soccer Fan <br/>
+:books: Non-Fiction Reads
 
 ## Connect with Me
 - [Linkedin](https://www.linkedin.com/in/fadhil-radhian-463024205/) <br/>
