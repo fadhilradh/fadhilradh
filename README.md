@@ -11,9 +11,10 @@ I'm a Front End Developer working at <strong>Elabram Systems</strong> mostly wit
 🙌 Teamwork & Communication
 
 ## Hobbies
+:books: Non-Fictions
 :soccer: Futsal Player and Soccer Fan <br/>
-:books: Non-Fiction Reads
 
+:books: Non-Fictions
 ## Connect with Me
 - [Linkedin](https://www.linkedin.com/in/fadhil-radhian-463024205/) <br/>
 - [Twitter](https://twitter.com/fadhil_radhian) <br/>
