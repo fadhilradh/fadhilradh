@@ -5,10 +5,10 @@ I'm a Front End Developer working at Elabram Systems mostly with React, Next, Vu
 > ⭐️ [MixNews](https://github.com/fadhilradh/FadNews-React-Next) - I'm currently building a news site aggregator that contains news from different sources, also with the ability to search any news keyword from around the world
 
 ## My Values
-🧠 Thoughtful & Inclusive Development <br/>
-🖤 Authentic Expression <br/>
-💡 Mindset of Learning & Curiosity <br/>
-🙌 Teamwork & Communication
+🧠  Thoughtful & Inclusive Development <br/>
+🖤  Authentic Expression <br/>
+💡   Mindset of Learning & Curiosity <br/>
+🙌  Teamwork & Communication
 
 ## Hobbies
 :books: Non-Fictions <br/>
