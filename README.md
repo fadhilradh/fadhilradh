@@ -15,6 +15,6 @@ I'm a Front End Developer working at <strong>Elabram Systems</strong> mostly wit
 :soccer: Futsal Player and Soccer Fan <br/>
 
 ## Connect with Me
-- [Linkedin](https://www.linkedin.com/in/fadhil-radhian-463024205/) <br/>
+- [Linkedin](https://www.linkedin.com/in/fadhil-radhian/) <br/>
 - [Twitter](https://twitter.com/fadhil_radhian) <br/>
 - [Instagram](https://www.instagram.com/fadhilrad) <br/>
