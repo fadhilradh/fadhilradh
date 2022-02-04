@@ -1,5 +1,5 @@
 # Hi there, I'm Fadhil 👋🏻
-I'm a Front End Developer working at <strong>Elabram Systems</strong> mostly with React, Next, Vue and CSS tools.
+I'm a Front End Developer working at Elabram Systems mostly with React, Next, Vue and CSS tools.
 
 ## Current Projects <br/>
 > ⭐️ [MixNews](https://github.com/fadhilradh/FadNews-React-Next) - I'm currently building a news site aggregator that contains news from different sources, also with the ability to search any news keyword from around the world
