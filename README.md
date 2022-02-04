@@ -12,7 +12,7 @@ I'm a Front End Developer working at Elabram Systems mostly with React, Next, Vu
 
 ## Hobbies
 :books: Non-Fictions <br/>
-:soccer: Futsal Player and Soccer Fan <br/>
+:soccer: Futsal Player and Football Fan <br/>
 
 ## Connect with Me
 - [Linkedin](https://www.linkedin.com/in/fadhil-radhian/) <br/>
