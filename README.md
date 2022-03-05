@@ -1,5 +1,5 @@
 # Hi there, I'm Fadhil 👋🏻
-I'm a self-taught Front End Developer working at Elabram Systems mostly with React, Next, Vue and CSS tools.
+I'm a Front End Developer working at Telkom Indonesia, mostly with React, Next, Vue and CSS tools.
 
 ## My Values
 🧠  Thoughtful & Inclusive Development <br/>
