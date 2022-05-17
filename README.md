@@ -14,4 +14,4 @@ I'm a Front End Developer working at Telkom Indonesia, mostly with React, Next, 
 ## Connect with Me
 - [Linkedin](https://www.linkedin.com/in/fadhil-radhian/) <br/>
 - [Twitter](https://twitter.com/fadhil_radhian) <br/>
-- [Instagram](https://www.instagram.com/fadhilrad) <br/>
+- [Instagram](https://www.instagram.com/fadhilradh) <br/>
