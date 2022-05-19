@@ -2,9 +2,9 @@
 I'm a Front End Developer working at Telkom Indonesia, mostly with React, Next, Vue and CSS tools.
 
 ## My Values
+💡   Mindset of Learning & Curiosity <br/>
 🧠  Thoughtful & Inclusive Development <br/>
 🖤  Authentic Expression <br/>
-💡   Mindset of Learning & Curiosity <br/>
 🙌  Teamwork & Communication
 
 ## Hobbies
