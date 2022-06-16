@@ -1,5 +1,5 @@
 # Hi there, I'm Fadhil 👋🏻
-I'm a Software Developer working at Telkom Indonesia, mostly with React, Next, Vue and CSS tools.
+I'm a Software Developer working at Telkom Indonesia.
 
 ## My Values
 💡   Mindset of Learning & Curiosity <br/>
