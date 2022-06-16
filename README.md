@@ -2,10 +2,10 @@
 I'm a Software Developer working at Telkom Indonesia.
 
 ## My Values
-💡   Mindset of Learning & Curiosity <br/>
-🧠  Thoughtful & Inclusive Development <br/>
-🖤  Authentic Expression <br/>
-🙌  Teamwork & Communication
+- Learning & Curiosity <br/>
+- Inclusive Development <br/>
+-  Expression <br/>
+- Teamwork & Communication
 
 ## Hobbies
 :books: Non-Fictions <br/>
