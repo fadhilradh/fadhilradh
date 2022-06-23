@@ -1,5 +1,5 @@
 # Hi there, I'm Fadhil 👋🏻
-I'm a Software Developer working at Telkom Indonesia.
+I'm a Tech Hobbyist. Currently working as Software Developer at Telkom Indonesia.
 
 ## My Values
 - Learning & Curiosity <br/>
