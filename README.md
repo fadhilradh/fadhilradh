@@ -4,7 +4,6 @@ I'm a Tech Hobbyist. Currently working as Software Developer at Telkom Indonesia
 ## My Values
 - Learning & Curiosity <br/>
 - Inclusive Development <br/>
--  Expression <br/>
 - Teamwork & Communication
 
 ## Hobbies
