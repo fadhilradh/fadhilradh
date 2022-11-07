@@ -13,4 +13,4 @@ I'm a Tech Hobbyist. Currently working as Software Developer at Telkom Indonesia
 ## Connect with Me
 - [Linkedin](https://www.linkedin.com/in/fadhil-radhian/) <br/>
 - [Twitter](https://twitter.com/fadhil_radhian) <br/>
-- [Instagram](https://www.instagram.com/fadhilradh) <br/>
+- [Instagram](https://www.instagram.com/fadhilradhian) <br/>
