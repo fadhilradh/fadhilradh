@@ -1,5 +1,5 @@
 # Hi there, I'm Fadhil 👋🏻
-I'm a Tech Hobbyist. Currently working as Software Developer at Govtech - Telkom Indonesia.
+Coding for fun and challenge in my free time. Currently working as Software Developer at Govtech - Telkom Indonesia.
 
 ## My Values
 - Learning & Curiosity <br/>
