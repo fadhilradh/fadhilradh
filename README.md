@@ -1,5 +1,5 @@
 # Hi there, I'm Fadhil 👋🏻
-Coding for fun and challenge in my free time. Currently working as Software Developer at Accenture.
+Coding for fun in my free time. Currently working as Software Engineer at Accenture.
 
 ## Connect with Me
 - [Linkedin](https://www.linkedin.com/in/fadhil-radhian/) <br/>
