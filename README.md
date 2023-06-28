@@ -1,5 +1,6 @@
 # Hi there, I'm Fadhil 👋🏻
-I'm interested in Javascript, Typecript, React and Node.
+I'm a software enthusiast. Creating and learning things for fun.
+Currently working at Accenture Indonesia.
 
 ## Connect with Me
 
