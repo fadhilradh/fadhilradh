@@ -1,6 +1,5 @@
 # Hi there, I'm Fadhil 👋🏻
-I'm a software enthusiast. Creating and learning things for fun.
-I currently work at Accenture Indonesia.
+I'm a software and computer enthusiast
 
 ## Connect with Me
 
