@@ -1,5 +1,5 @@
 # Hi there, I'm Fadhil 👋🏻
-I'm a software and computer enthusiast
+I'm a software and computer enthusiast. Please enjoy your visit here.
 
 ## Connect with Me
 
